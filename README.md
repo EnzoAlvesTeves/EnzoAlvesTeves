@@ -5,10 +5,11 @@ Estou começando minha carreira em informática e tenho o objetivo de seguir par
 Possuo habilidades em Java, SQL, HTML, CSS, entre outros que utilizo para criar aplicações. Estou constantemente aprimorando minhas habilidades em programação, buscando formas de integrar tecnologia e uma base sólida em lógica e cálculos.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Enzo&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="Enzo's Stats" height="150" >
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enzo&theme=merko&hide_border=false" alt="Enzo's Streak" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=EnzoAlvesTeves&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="EnzoAlvesTeves's Stats" height="150">
+  
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoAlvesTeves&theme=merko&show_border=false" alt="EnzoAlvesTeves's Streak" height="150">
 <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EnzoAlvesTeves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&show_border=false&order=2"  alt="languages graph"  />
 </div>
 
 ### Minha midia social 📱
