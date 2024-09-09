@@ -1,8 +1,12 @@
 
 ### Olá! Sou o Enzo Alves Teves 👋🏼
 
+-Curso BSI
+
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/enzo-teves-202412276/)](https://www.linkedin.com/in/enzo-teves-202412276/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Enzo&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="Enzo's Stats" height="150" >
